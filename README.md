@@ -1,4 +1,4 @@
-# HomesiteQuoteConversion
+# Homesite Quote Conversion
 
 # Background
 This dataset represents the activity of a large number of customers who are interested in buying policies from Homesite. Each QuoteNumber corresponds to a potential customer and the QuoteConversion_Flag indicates whether the customer purchased a policy.
